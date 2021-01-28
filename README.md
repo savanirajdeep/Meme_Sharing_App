@@ -8,3 +8,6 @@ This is APK file of the app : https://drive.google.com/file/d/1oDOOSFZiTEEDX6rXE
 ![1](https://user-images.githubusercontent.com/56822565/106124859-8e3d7580-6181-11eb-9c07-81b8b47b3c41.jpg)
 
 
+![2](https://user-images.githubusercontent.com/56822565/106124935-a44b3600-6181-11eb-919d-d3c1b5db4a43.jpg)
+
+
